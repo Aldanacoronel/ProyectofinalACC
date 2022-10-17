@@ -1,4 +1,3 @@
-Esta es mi primera entrega del proyecto final, lo que intente
+Esta es mi primera entrega del proyecto final (Aldana Claribel Coronel), lo que intente
  hacer es una pequeña pagina en honor a mis michis, 
- tambien un proximo ecommerce para un emprendimiento a futuro.
-git 
+ tambien un es como un anuncio de un emprendimiento a futuro.
