@@ -1,0 +1,57 @@
+footer {
+  width: 100%; }
+
+header {
+  background-color: black;
+  color: #FECEDE;
+  height: min-content; }
+  header .logo-desktop {
+    margin-top: 25px;
+    margin-left: -50px; }
+
+.enlacesdelheader {
+  color: #FECEDE; }
+
+.enlacesdelheader:hover {
+  color: #7fffd4; }
+
+.enlacesdelheader2 {
+  margin-right: 25px;
+  margin-left: 25px;
+  color: #FECEDE; }
+
+.enlacesdelheader2:hover {
+  text-decoration: underline;
+  color: aquamarine; }
+
+nav {
+  margin-left: 20px; }
+  nav .botonbuscar {
+    color: #000000;
+    background-color: #FECEDE;
+    border-radius: 5px; }
+  nav .botonbuscar:hover {
+    background-color: #7fffd4; }
+
+.faqvideo1 {
+  float: right;
+  margin-left: 20px; }
+
+.faq {
+  padding: 2%;
+  margin-left: 2%;
+  margin-right: 2%;
+  text-align: left; }
+  .faq h1 {
+    text-align: center;
+    margin-bottom: 2%; }
+
+.carousel-item {
+  justify-content: center; }
+
+body {
+  font-family: 'Paytone One', sans-serif;
+  font-size: large;
+  background-color: #FECEDE; }
+  body .title {
+    margin-bottom: 50; }

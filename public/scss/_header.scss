@@ -1,0 +1,36 @@
+header {
+    background-color: black;
+    color: #FECEDE;
+    height:min-content;
+        .logo-desktop {
+        margin-top: 25px;
+        margin-left: -50px;
+         }
+}
+.enlacesdelheader {
+    color: #FECEDE;
+
+}
+.enlacesdelheader:hover {
+        color: #7fffd4;
+}
+.enlacesdelheader2 {
+    margin-right: 25px;
+    margin-left: 25px;
+    color: #FECEDE;
+}
+.enlacesdelheader2:hover {
+    text-decoration: underline;
+    color: aquamarine;
+}
+nav {
+    margin-left: 20px;
+    .botonbuscar {
+        color: #000000;
+        background-color: #FECEDE;
+        border-radius: 5px;
+    }
+    .botonbuscar:hover {
+        background-color: #7fffd4;
+    }
+}

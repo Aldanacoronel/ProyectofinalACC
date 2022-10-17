@@ -1,0 +1,13 @@
+@import "footer";
+@import "header";
+@import "preguntasfrec";
+@import "index";
+
+body {
+    font-family: 'Paytone One', sans-serif;
+    font-size: large;
+    background-color: #FECEDE;
+    .title{
+        margin-bottom: 50;
+    }
+}
